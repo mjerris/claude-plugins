@@ -1,0 +1,12 @@
+{
+  "name": "mjerris",
+  "owner": {"name": "Michael Jerris"},
+  "description": "Michael Jerris's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "scout",
+      "description": "An always-on helper on your Mac for Claude: local voice with wake word, echo cancellation and barge-in; Mac tools; mail and calendar; spoken approvals. Installs and runs its background app on first use.",
+      "source": {"source": "github", "repo": "mjerris/scout", "ref": "plugin"}
+    }
+  ]
+}
