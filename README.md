@@ -3,7 +3,6 @@
 Michael Jerris's Claude Code plugin marketplace.
 
 ```sh
-
 claude plugin marketplace add mjerris/claude-plugins
 claude plugin install scout@mjerris
 ```
